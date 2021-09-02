@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Black.otf);
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Bold.otf);
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Cond-Reg-It.otf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Cond-Reg.otf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Cond-Sbold.otf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-ExCn-Reg.otf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Reg.otf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Sbold-It.otf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Sbold.otf);
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Thin.otf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Xbold-It.otf);
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-Proxima-Nova-Xbold.otf);
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-proxima_nova_bold-webfont.ttf);
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-proxima_nova_cond_bold-webfont.ttf);
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url(../fonts/proxima-nova/FontsFree-Net-proxima_nova_reg-webfont.ttf);
+}

@@ -1,0 +1,162 @@
+
+
+/*-------------- Start device screen 1440 --------------*/
+@media screen and (max-width: 1440px) {
+    .qz-topbar {
+        padding: 34px 0 23px 0;
+    }
+    .qz-content-area {
+        padding: 0 15px;
+    }
+    .qz-page-title {
+        padding: 30px 0;
+    }
+    .qz-total-qustions {
+        font-size: 24px;
+    }
+    .qz-blance {
+        font-size: 26px;
+    }
+    .qz-user-status-card h6 {
+        font-size: 18px;
+    }
+}
+
+/*-------------- Start device screen 1366 --------------*/
+@media screen and (max-width: 1366px) {
+    .qz-topbar {
+        padding: 34px 0 23px 0;
+    }
+    .qz-content-area {
+        padding: 0 15px;
+    }
+    .qz-page-title {
+        padding: 30px 0;
+    }
+    .qz-total-qustions {
+        font-size: 18px;
+    }
+    .qz-blance {
+        font-size: 18px;
+    }
+    .qz-user-status-card h6 {
+        font-size: 14px;
+    }
+}
+
+/*-------------- Start device screen 1024 --------------*/
+
+@media screen and (max-width: 1024px) {
+    /*.qz-table-footer a {*/
+        /*font-size: 18px;*/
+    /*}*/
+    .qz-user-profile-from{
+        margin-top: 50px;
+    }
+    .qz-total-qustions {
+        font-size: 18px;
+    }
+    .qz-blance {
+        font-size: 18px;
+    }
+
+}
+
+/*-------------- Start device screen 991 --------------*/
+
+@media screen and (max-width: 991px) {
+
+    button#add {
+        position: static;
+        margin-bottom: 15px;
+
+    }
+}
+
+/*-------------- Start device screen 768 --------------*/
+
+@media screen and (max-width: 768px) {
+    .qz-sidebar {
+        left: -261px;
+        z-index: 9;
+        transition: all 0.3s ease;
+        box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    }
+    .sidebarToggle{
+        left: 0;
+    }
+    .qz-main-content {
+        margin-left: 0;
+    }
+    span.sidebarToggler {
+        /*background: #327cf1;*/
+        background: #26416c;
+        height: 32px;
+        width: 32px;
+        font-size: 20px;
+        color: #ffffff;
+        border-radius: 5px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
+    }
+    .qz-label-hide{
+        display: none;
+    }
+}
+
+/*-------------- Start device screen 425 --------------*/
+
+@media screen and (max-width: 425px) {
+    .card-body{
+        padding: 15px 0;
+    }
+    .user-body .card-body{
+        padding: 15px;
+    }
+    span.sidebarToggler {
+        /*background: #26416c;*/
+        position: absolute;
+        right: 15px;
+        top: -230%;
+    }
+    .qz-laderboard-area table td .people {
+        font-size: 14px;
+    }
+    table td .people img {
+        height: 40px;
+        width: 40px;
+    }
+    .qz-user-avater img {
+        height: 40px;
+        width: 40px;
+        margin-top: 0;
+    }
+}
+
+/*-------------- Start device screen 375 --------------*/
+
+@media screen and (max-width: 375px) {
+    .qz-edit-icon {
+        top: 20px;
+        right: 30px;
+    }
+}
+
+/*-------------- Start device screen 320 --------------*/
+
+@media screen and (max-width: 320px) {
+    .qz-total-qustions {
+        font-size: 16px;
+    }
+    .qz-blance {
+        font-size: 18px;
+    }
+    .user-body .card h5 {
+        font-size: 16px;
+    }
+    .qz-table-footer h5{
+        text-align: left !important;
+    }
+}
