@@ -6,10 +6,8 @@
     "type": "project",
     "require": {
         "php": ">=7.4.21",
-<<<<<<< HEAD
         "ext-bcmath": "*",
-=======
->>>>>>> 8d111613776081840a9b9c88af1e99b8dd4e014c
+        "illuminate/html": "5.*",
         "braintree/braintree_php": "^4.3",
         "doctrine/dbal": "^2.9",
         "ext-bcmath" : "*",
