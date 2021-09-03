@@ -25,7 +25,7 @@ class AppServiceProvider extends ServiceProvider
             return ctype_digit($value);
         });
         Validator::extend('strong_pass', function($attribute, $value, $parameters, $validator) {
-            return is_string($value) && preg_match('/^.*(?=.{3,})(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[\d\X]).*$/', $value);
+            return is_string($value) && preg_match('/^.*(?=.{3,})(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[\d\x]).*$/', $value);
         });
         bcscale(8);
         if(Schema::hasTable('admin_settings')) {
